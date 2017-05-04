@@ -1,0 +1,10 @@
+c:\users\user1\documents\visual studio 2015\Projects\CSharpShooter\CSharpShooter\bin\Debug\CSharpShooter.exe.config
+c:\users\user1\documents\visual studio 2015\Projects\CSharpShooter\CSharpShooter\bin\Debug\CSharpShooter.exe
+c:\users\user1\documents\visual studio 2015\Projects\CSharpShooter\CSharpShooter\bin\Debug\CSharpShooter.pdb
+c:\users\user1\documents\visual studio 2015\Projects\CSharpShooter\CSharpShooter\obj\Debug\CSharpShooter.csprojResolveAssemblyReference.cache
+c:\users\user1\documents\visual studio 2015\Projects\CSharpShooter\CSharpShooter\obj\Debug\CSharpShooter.Properties.Resources.resources
+c:\users\user1\documents\visual studio 2015\Projects\CSharpShooter\CSharpShooter\obj\Debug\CSharpShooter.csproj.GenerateResource.Cache
+c:\users\user1\documents\visual studio 2015\Projects\CSharpShooter\CSharpShooter\obj\Debug\CSharpShooter.exe
+c:\users\user1\documents\visual studio 2015\Projects\CSharpShooter\CSharpShooter\obj\Debug\CSharpShooter.pdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\CSharpShooter\CSharpShooter\obj\Debug\CSharpShooter.Form1.resources
+C:\Users\user1\Documents\Visual Studio 2015\Projects\CSharpShooter\CSharpShooter\obj\Debug\CSharpShooter.Form2.resources
